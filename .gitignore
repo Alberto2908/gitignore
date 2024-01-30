@@ -1,0 +1,8 @@
+bin/**
+
+# Quita config.json
+config.json
+# Quita las carpetas node_modules dentro de libs
+libs/**/node_modules
+# Quita todos los archivos .class dentro de src
+src/**/*.class
